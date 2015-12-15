@@ -8,3 +8,4 @@ Other resource lists:
  - https://gist.github.com/dypsilon/5819504
  - http://www.colbycheeze.com/blog/2015/03/the-mega-web-developer-learning-resources-page.html
  - http://www.colbycheeze.com/blog/2015/05/meteor-learning-resource-list.html
+ - https://github.com/sindresorhus/awesome#front-end-development
